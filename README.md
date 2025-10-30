@@ -1,10 +1,10 @@
 # CSE306 Computer Architecture Sessional
 
-This repository collects the four major off-line design exercises completed for the CSE306 Computer Architecture Sessional course. Each assignment focuses on a different hardware design theme—building from a combinational arithmetic logic unit to a fully pipelined MIPS-like processor—with supporting assemblers, reports, and simulation artefacts. The designs are implemented in Logisim 2.7.1 circuits and complemented by C++ utilities where necessary.【F:Offline 1 (ALU)/ALU.circ†L1-L24】【F:Offline 2 (FP Adder)/FP_Adder.circ†L1-L46】
+This repository collects the four major off-line design exercises completed for the CSE306 Computer Architecture Sessional course. Each assignment focuses on a different hardware design theme—building from a combinational arithmetic logic unit to a fully pipelined MIPS-like processor—with supporting assemblers, reports, and simulation artefacts. The designs are implemented in Logisim 2.7.1 circuits and complemented by C++ utilities where necessary.
 
 ## Repository layout
 
-The repository is organised by assignment. Each assignment directory contains Logisim circuit files, documentation (PDF/DOCX), and any supplementary tooling or submissions used during the course.【8f9a98†L1-L64】
+The repository is organised by assignment. Each assignment directory contains Logisim circuit files, documentation (PDF/DOCX), and any supplementary tooling or submissions used during the course.
 
 ```
 Assignment 1 test cases.xlsx   Shared spreadsheet of ALU validation vectors
